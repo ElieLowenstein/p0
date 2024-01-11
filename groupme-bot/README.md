@@ -1,4 +1,4 @@
-# GroupMe Bot - Python ChatBot
+# GroupMe Bot - GroupMe ChatBot
 
 ## Overview
 
